@@ -1,3 +1,8 @@
+# Held-judge entry: a short piece meant to slow the reader down and let
+# them stop performing for a moment. Four quiet, concrete images (a leaning
+# guitar, strings holding tension on their own, dust settling, a room quiet
+# enough to hear it) do the relaxing; nothing in the text pushes or demands.
+# The text is a fixed constant, validated here to 1-280 characters.
 """Write the held-judge entry text to entry.txt.
 
 Deterministic, no dependencies, no network. Writes the entry text as UTF-8
